@@ -3,7 +3,8 @@ version: 1
 name: Your Name
 ---
 ## Posts
-- [Welcome to your Poa](welcome.md)
+- [Check Colemäk](2026-11-19-check-colemaek.md)
 
 ## Poas I read
 - manujarvinen.github.io/poa
+- gearnoodle.github.io/poa
