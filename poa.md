@@ -1,6 +1,7 @@
 ---
 version: 1
 name: Colemäk
+category: keyboards
 ---
 ## Posts
 - [Check Colemäk](2026-11-19-check-colemaek.md)
